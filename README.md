@@ -1,3 +1,2 @@
-# Hello, everyone
-#### 만나서 반갑습니다
+### Hello, everyone
 ![VUE.JS](https://img.shields.io/badge/VUE.JS-yellowgreen)
