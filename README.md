@@ -1,4 +1,4 @@
-># Hello, Everyone
+># Hi
 >>:e-mail:이메일:e-mail: : wnenddl9890@gmail.com  
 >>:iphone:모바일:iphone: : 010-3710-0393
 
